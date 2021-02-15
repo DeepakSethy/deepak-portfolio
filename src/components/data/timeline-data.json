@@ -1,0 +1,16 @@
+{
+    "employment":[
+        {
+            "institution":"Lead Full Stack Developer at Conduent ",
+            "jobduties":"Requirement analysis , Design, Architecting cloud based microservices, Development, unit testing and architechting jenkins pipeline build docker image and push to registry and deployed in Azure resources and orchestrate using Kubernetes. Design and architecting serverless application for Azure and AWS cloud. "
+        },
+        {
+            "institution":"Technology Architect at Cognizant ",
+            "jobduties":"Design, Architecting, developement and unit testing java component, application, and api contract using Java 8(Core Java, Stream api, Lambda expression, Functional Interface, Multi Threading) Spring Framework, Spring Boot, Micro services, Spring Cloud, Spring batch, JPA, ActiveMQ, Kafka, and enterprise integration using Apache Camel.  As well Design, Architecting and developed ui components using React and Angular.  "
+        },
+        {
+            "institution":"Bachelor of Engineering in Electronics & Instumentation from NIST",
+            "jobduties":""
+        }
+    ]
+}
